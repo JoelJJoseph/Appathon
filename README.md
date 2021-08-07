@@ -7,6 +7,30 @@ Dyslexia is a learning disorder that directly affects reading, writing, spelling
 
 So, I have created a chrome extension to make reading webpages easier for our friends with dyslexia and other learning disabilities!
 
+Inspiration
+Almost half of the world faces some type of mental disorder, dyslexia is just one of the disorders that we decided to focus on. We were inspired by the people who overcame everything and used their disorder as a superpower.
+
+What it does
+Our project provides informational content on Dyslexia. Our website gives resources, training sites, and information regarding this disorder. Our goal is to provide families with the resources to create a successful path for people with Dyslexia, it encourages people to look at this disorder as a superpower and not a disease.
+
+How we built it
+We use HTML, CSS, javascript, machine learning, AR, Repl.it, Qoom, and other websites to get research and inspiration for this project. We hope to make a difference to people who have Dyslexia as there is not a lot of teaching or awareness for this disorder. We want to let people know that this disorder cannot stop you from achieving your dreams.
+
+Challenges we ran into
+We ran into many challenges, including creating the map, some of the activities, and some trouble with the code as well, but all of that apart we all feel very proud that overcame all those problems and created a beautiful website.
+
+Accomplishments that we're proud of
+The implementation of the entire project helped us realize the importance of collaboration and the dynamics of working in a team In every Hackathon, proper time management plays a crucial role that can become a determining factor for the overall progress; we understood the instrumentality of following the code of conduct and treating fellow developers with respect while learning and improving through their feedback.
+
+What we learned
+We learned a lot from this hackathon from time management, team working skills, the code itself, and also a lot of Dyslexia. We are very glad that we got so much out of this hackathon.
+
+What's next for AlzDys
+AlzDys at its core is to let everyone know that Dyslexia cannot stop them from being successful. We hope that in the future we provide inspiration and resources for many other disorders, as dyslexia is only one of them.
+
+Built With
+
+
 ## What it does
 
 Alzdys is an inclusively designed plugin that implements proven techniques to improve reading comprehension for new readers, language learners, and people with learning differences such as dyslexia.
@@ -28,6 +52,11 @@ It provides the following features:
 3. **CSS** : It is used to add all the styling in the chrome extension. All the custom changes on the hoest website are being done using css as well.
 5. **Google Cloud Text To Speech API** : This API service has been used for text-to-speech conversion for listening to certain text on the websites by the user.
 5. **Google Cloud Custom Search API** : This API service has been used to get images corresponding to words for the user for better visualization.
+6.**bootstrap**
+7.**ibm-watson**
+
+
+
 
 ## How we built it
 
