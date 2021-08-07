@@ -9,7 +9,7 @@ So, I have created a chrome extension to make reading webpages easier for our fr
 
 ## What it does
 
-UNdyslexify is an inclusively designed plugin that implements proven techniques to improve reading comprehension for new readers, language learners, and people with learning differences such as dyslexia.
+Alzdys is an inclusively designed plugin that implements proven techniques to improve reading comprehension for new readers, language learners, and people with learning differences such as dyslexia.
 
 It provides various options to modify websites in order to make the written content easier to read. It improves readability and better visual impact for all readers, but especially those with dyslexia. Users can customize the settings in order to find the most appropriate appearance that suits the individual user. 
 
