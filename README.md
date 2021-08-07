@@ -5,31 +5,7 @@ A reading disability is a condition in which a sufferer displays difficulty read
 
 Dyslexia is a learning disorder that directly affects reading, writing, spelling, and speaking skills. It is the most common learning disability, affecting as much as 17% of children in the United States. People with dyslexia typically have trouble reading fluently. They often read slowly and make mistakes that can impact how well they comprehend what they read.
 
-So, I have created a chrome extension to make reading webpages easier for our friends with dyslexia and other learning disabilities!
-
-Inspiration
 Almost half of the world faces some type of mental disorder, dyslexia is just one of the disorders that we decided to focus on. We were inspired by the people who overcame everything and used their disorder as a superpower.
-
-What it does
-Our project provides informational content on Dyslexia. Our website gives resources, training sites, and information regarding this disorder. Our goal is to provide families with the resources to create a successful path for people with Dyslexia, it encourages people to look at this disorder as a superpower and not a disease.
-
-How we built it
-We use HTML, CSS, javascript, machine learning, AR, Repl.it, Qoom, and other websites to get research and inspiration for this project. We hope to make a difference to people who have Dyslexia as there is not a lot of teaching or awareness for this disorder. We want to let people know that this disorder cannot stop you from achieving your dreams.
-
-Challenges we ran into
-We ran into many challenges, including creating the map, some of the activities, and some trouble with the code as well, but all of that apart we all feel very proud that overcame all those problems and created a beautiful website.
-
-Accomplishments that we're proud of
-The implementation of the entire project helped us realize the importance of collaboration and the dynamics of working in a team In every Hackathon, proper time management plays a crucial role that can become a determining factor for the overall progress; we understood the instrumentality of following the code of conduct and treating fellow developers with respect while learning and improving through their feedback.
-
-What we learned
-We learned a lot from this hackathon from time management, team working skills, the code itself, and also a lot of Dyslexia. We are very glad that we got so much out of this hackathon.
-
-What's next for AlzDys
-AlzDys at its core is to let everyone know that Dyslexia cannot stop them from being successful. We hope that in the future we provide inspiration and resources for many other disorders, as dyslexia is only one of them.
-
-Built With
-
 
 ## What it does
 
@@ -44,6 +20,7 @@ It provides the following features:
 3. Spacing Adjust : Using this, the user can adjust the spacings between different letters and words on the website. They can adjust the words and letter spacings to make the content easier to read by easily differentiating between diffrent words and letters through spaces.
 4. Line Height Adjust : This can be used to adjust the spacing between different lines of text on the webpage. The user can customize line height according to their likings.
 5. Listen and Visualize Word : This feature allows the user to listen to difficult words aloud and also displays a picture for those words in order to make learning easier through listening and visualization.
+Our project provides informational content on Dyslexia. Our website gives resources, training sites, and information regarding this disorder. Our goal is to provide families with the resources to create a successful path for people with Dyslexia, it encourages people to look at this disorder as a superpower and not a disease.
 
 ## Technologies Used
 
@@ -54,6 +31,17 @@ It provides the following features:
 5. **Google Cloud Custom Search API** : This API service has been used to get images corresponding to words for the user for better visualization.
 6.**bootstrap**
 7.**ibm-watson**
+
+
+## Challenges we ran into
+We ran into many challenges, including creating the map, some of the activities, and some trouble with the code as well, but all of that apart we all feel very proud that overcame all those problems and created a beautiful website.
+
+## Accomplishments that we're proud of
+The implementation of the entire project helped us realize the importance of collaboration and the dynamics of working in a team In every Hackathon, proper time management plays a crucial role that can become a determining factor for the overall progress; we understood the instrumentality of following the code of conduct and treating fellow developers with respect while learning and improving through their feedback.
+
+
+What's next for AlzDys
+AlzDys at its core is to let everyone know that Dyslexia cannot stop them from being successful. We hope that in the future we provide inspiration and resources for many other disorders, as dyslexia is only one of them.
 
 
 
